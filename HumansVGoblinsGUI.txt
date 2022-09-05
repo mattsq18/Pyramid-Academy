@@ -1,0 +1,4 @@
+I apologize for the delay of the GUI implementation for Humans V Goblins.
+I had no internet for half of last week, and the previous knowledge I had of GUI was using Eclipse IDE, and seems to have a conflict when using IntelliJ.
+I understand the due date was by Sunday the 4th, and I am working on learning how to upload and edit images for the GUI.
+I apologize for not having it done on time, but I believe I will make up for the lateness by delivering a implementation that passes all expectations.
