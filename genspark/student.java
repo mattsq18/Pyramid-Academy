@@ -19,6 +19,8 @@ public class student {
         this.ph = ph;
         this.add = add;
     }
+    
+    public student(){}
 
 
     @Override
